@@ -2,9 +2,9 @@
 
 > Status: Finalizado ✔️
 
-Link: https://pedroabreu04.github.io/Portfolio/index.html
+Link: https://pedroabreu04.github.io/NLW/
 
-<p>Projeto feito no intensivo de 1 semana (NLW) da Rocketseat</p>
+<p>Projeto feito no intensivo de 1 semana denominada Next Level Week(NLW) da Rocketseat</p>
 
 ### Tecnologia Usadas:
 <table>
@@ -17,7 +17,7 @@ Link: https://pedroabreu04.github.io/Portfolio/index.html
 
 ### Como usar:
 <ol>
-  <li>Acesse o link: https://pedroabreu04.github.io/Portfolio/index.html</li>
+  <li>Acesse o link: https://pedroabreu04.github.io/NLW/</li>
 </ol>
 
 
