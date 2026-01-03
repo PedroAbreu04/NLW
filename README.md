@@ -2,8 +2,6 @@
 
 > Status: Finalizado ✔️
 
-Link: https://pedroabreu04.github.io/NLW/
-
 <p>Projeto feito no intensivo de 1 semana denominada Next Level Week(NLW) da Rocketseat</p>
 
 ### Tecnologia Usadas:
