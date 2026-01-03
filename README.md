@@ -15,7 +15,7 @@
 
 ### Como usar:
 <ol>
-  <li>Acesse o link: <a href="https://pedroabreu04.github.io/NLW/" target="_blank"></a>https://pedroabreu04.github.io/NLW/</li>
+  <li>Acesse o link: https://pedroabreu04.github.io/NLW/</li>
 </ol>
 
 
